@@ -1,1 +1,1 @@
-This is a project to display UW-Madison salaries in useful/tangible ways.
+This is my hub respository to provide a dashboard and or link to the other public repositories/apps.
